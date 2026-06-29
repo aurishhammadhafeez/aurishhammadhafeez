@@ -13,15 +13,13 @@ I help founders, nonprofits, and operations-heavy teams turn messy requirements 
 - AI-assisted workflow tools for document processing, grading, research, and operational decision support
 - Technical leadership across planning, ticketing, resource coordination, UAT, stakeholder handoff, and rescue work
 
-## Public Proof
+## Selected Public Work
 
 - [spotter-assessment](https://github.com/aurishhammadhafeez/spotter-assessment): Django + React HOS trip planner with route planning, stops, ELD-style log sheets, tests, and deployment notes.
-- [django-react-boilerplate](https://github.com/aurishhammadhafeez/django-react-boilerplate): Django/React full-stack foundation fork used for modern backend/frontend patterns.
-- [zatca-xml-js](https://github.com/aurishhammadhafeez/zatca-xml-js): TypeScript ZATCA e-invoicing implementation fork for tax/compliance integration reference.
-- [books_crawler](https://github.com/aurishhammadhafeez/books_crawler): Python scraping and data-extraction practice project.
-- [bookstoscrape](https://github.com/aurishhammadhafeez/bookstoscrape): Python web-scraping practice project using the Books to Scrape catalog.
 
-Most of my recent client, product, nonprofit, ecommerce, ERP, WhatsApp/API, and AI workflow work is private or NDA-bound, so I keep GitHub focused on safe public examples and reusable technical proof.
+Most of my recent product, client, nonprofit, ecommerce, ERP, WhatsApp/API, and AI workflow work lives in private repositories or NDA-bound environments. I keep GitHub intentionally lean so the public profile does not overstate older experiments, forks, or work that is not representative of my current day-to-day responsibilities.
+
+For a deeper view of my work, I usually share sanitized case studies, architecture summaries, product notes, or live walkthroughs where the client and confidentiality boundaries allow it.
 
 ## How I Usually Help
 
